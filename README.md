@@ -22,9 +22,8 @@ The project leverages **LangChain**, **Google Gemini**  and other libraries to f
 - Streamlit
 - LangChain
 - dateparser
-- re
 - Chroma
-- Google Generative AI API (or any LLM for question answering)
+- Google Generative AI API 
 - dotenv
 - PyPDFLoader (for loading PDF documents)
 
